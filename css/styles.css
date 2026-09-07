@@ -447,12 +447,12 @@ h2,
 .service-photo--wave {
   clip-path: ellipse(100% 88% at 50% 45%);
   border-radius: 40% 40% 24px 24px / 28% 28% 24px 24px;
-  object-position: center 42%;
+  object-position: center 48%;
 }
 
 .service-photo--pill {
   border-radius: 120px 120px 28px 28px;
-  object-position: center 36%;
+  object-position: center 42%;
 }
 
 .service-card h2 {
