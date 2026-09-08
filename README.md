@@ -17,7 +17,7 @@ Layout-first static page based on the brand mockup and `Socle_de_marque_Gaelle_H
    - Hero: tall crop, soft organic top edge (`.hero-photo`)
    - Particuliers: wavy top (`.service-photo--wave`)
    - Entreprises: pill crop (`.service-photo--pill`)
-   - Approche: circular (`.philosophy-photo`)
+   - Approche: vector frame mask on `.philosophy-photo-wrap` (`assets/philosophy-frame-mask.svg`); photo shifted inside
 
 ## Brand tokens
 
